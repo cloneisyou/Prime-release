@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Prime</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Wed, 29 Jul 2026 20:20:53 +0000</pubDate>
+            <sparkle:version>1.1.0</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# Prime 0.1.0
+
+> This build is Developer ID-signed but temporarily not notarized.
+
+- fix: avoid release checkout path collision (#11) (`aa4432a`)
+- fix: serialize release tests (#10) (`d492c9a`)
+- fix: reuse checked-out main ref in release (#9) (`ffeb793`)
+- release: test non-notarized DMG publishing (#8) (`23a68f4`)
+- feat: add signed automatic updates (#7) (`08b34c7`)
+- chore: ignore ExecutionLayer directory (`f7fb9ce`)
+- feat: add internal Hybrid diagnostics and harden CUA runtime (`f404606`)
+- fix: restore preserved clipboard primitive (`2513cf0`)
+- Open Codex prompts in new ChatGPT sessions (`0484d1d`)
+- hide unsupported settings at GUI (`e0e5272`)
+- UI fixed (`888f605`)
+- Merge pull request #5 from cloneisyou/feat/api-server-connection (`1fdd90e`)
+- Merge remote-tracking branch 'origin/main' into feat/api-server-connection (`af2d422`)
+- Document server connection rollout (`84a8f72`)
+- feat: update desktop UI (`8d4a6ec`)
+- Merge remote-tracking branch 'origin/main' into feat/api-server-connection (`ff50857`)
+- refactor: remove unused imports and default arguments (`1ccbc4c`)
+- Connect Prime to Clone next-action API (`1159613`)
+- refactor: remove confirmed dead code (`397aac9`)
+- Merge pull request #4 from cloneisyou/feat/pi-to-appserver (`cf5db66`)
+]]></description>
+            <enclosure url="https://github.com/cloneisyou/Prime-release/releases/download/v0.1.0/Prime-0.1.0.zip" length="3114156" type="application/octet-stream" sparkle:edSignature="02I0fNDe8mmov9w6jEOsKpabUnod4izw9Jx8NvJp4SYlDIYtRfhNJ8sD80gKLBhVw7KXvYtWM/qzIoDJOyI4Cg=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: 1RdMqqB67qeB9IRu08hVfuf7OVsgGrANXqYzAeigzuQ/l9XfXhF/R5faLY8XmMbNKHfPV/ktBNq8Ql+HTMOdCQ==
+length: 2398
+-->
