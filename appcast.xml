@@ -6,20 +6,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Prime</title>
         <item>
-            <title>0.2.4</title>
-            <pubDate>Wed, 29 Jul 2026 22:52:32 +0000</pubDate>
-            <sparkle:version>1.2.4</sparkle:version>
-            <sparkle:shortVersionString>0.2.4</sparkle:shortVersionString>
+            <title>0.2.5</title>
+            <pubDate>Fri, 31 Jul 2026 18:19:45 +0000</pubDate>
+            <sparkle:version>1.2.5</sparkle:version>
+            <sparkle:shortVersionString>0.2.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Prime 0.2.4
+            <description sparkle:format="markdown"><![CDATA[# Prime 0.2.5
 
 Developer ID-signed and notarized for macOS.
 ]]></description>
-            <enclosure url="https://github.com/cloneisyou/Prime-release/releases/download/v0.2.4/Prime-0.2.4.zip" length="4456673" type="application/octet-stream" sparkle:edSignature="NRuu63Y2GKmU0ab2GEWOx4d6BTfVMhbDsn/LDqguLR1UsHSa6kfRCslrV31fH/hpCo49AcCGcek+6KpcLxMcAg=="/>
+            <enclosure url="https://github.com/cloneisyou/Prime-release/releases/download/v0.2.5/Prime-0.2.5.zip" length="4791675" type="application/octet-stream" sparkle:edSignature="3i7AzeikvsEa7kWgFiBVRTJU5hPT5S17hM0zf/pHEvDkOvkHKHtfdE41PhQECG1ymtNljjjxxRO/tRag0EnYDg=="/>
         </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: ++bf7OTnry3+k5QjGtMXpdYuSZU0TQSli6AuAUc7f9IMrF2gPPXZzWZoFpHvn+s1g+NWwhsd5kkD99NIWoCrDg==
+edSignature: FZNOwxZGqgMwghwi19I1q9H7UkpBUQ0nnDxT0NolyAhq34jXx40b3f2aTrKNKfF5kZL1JhxkJhrlgUwA2B65Dg==
 length: 1176
 -->
